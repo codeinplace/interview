@@ -19,3 +19,5 @@ Em um mercado competitivo, mais importante que se especializar em algo, é se to
 Ao preencher o formulário (todos os campos são obrigatórios) e clicar no botão REST ou GraphQL as informações devem ser enviadas ao backend e armazenadas (MySQL ou Postgres).
 
 As informações armazenadas devem ser exibidas, de forma simples, no frontend na rota /users.
+
+* Não responderemos dúvidas sobre a execução do teste. Execute-o de acordo com os seus conhecimentos e pesquisas.
