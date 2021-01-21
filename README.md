@@ -12,7 +12,7 @@ Em um mercado competitivo, mais importante que se especializar em algo, é se to
 - O yin-yang é um ícone do Font Awesome e deve ser utilizado como SVG
 
 ## Back-end
-- Deve ser feito utilizando Nest.js
+- Deve ser feito utilizando [Nest.js](https://nestjs.com)
 
 ## Execução
 
